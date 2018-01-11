@@ -1,6 +1,6 @@
 ---
 title: Camera
-description: Take pictures with the device camera.
+description: Take pictures with the device camera. Donald was here.
 ---
 <!---
 # license: Licensed to the Apache Software Foundation (ASF) under one
